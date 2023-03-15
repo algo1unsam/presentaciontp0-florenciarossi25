@@ -4,10 +4,10 @@
 Descripción
 Hola soy Flor y tengo un perro muy lindo que se llama Arakur <3
 
-Foto de mi persona:
+Foto de mi perro:
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
+![d](https://github.com/algo1unsam/presentaciontp0-florenciarossi25/blob/d4e2752e3eb76cd9ee6453bc7b35f0aa73f6aa17/ara.jpg)
 
-Diente de Leon
+Arakur
 
 ------
